@@ -1,0 +1,16 @@
+D:\C#\数据库课程设计\stuSys\bin\Debug\stuSys.exe.config
+D:\C#\数据库课程设计\stuSys\obj\Debug\stuSys.csprojResolveAssemblyReference.cache
+D:\C#\数据库课程设计\stuSys\obj\Debug\stuSys.Login.resources
+D:\C#\数据库课程设计\stuSys\obj\Debug\stuSys.MainFrm.resources
+D:\C#\数据库课程设计\stuSys\obj\Debug\stuSys.Properties.Resources.resources
+D:\C#\数据库课程设计\stuSys\obj\Debug\stuSys.csproj.GenerateResource.Cache
+D:\C#\数据库课程设计\stuSys\bin\Debug\stuSys.exe
+D:\C#\数据库课程设计\stuSys\bin\Debug\stuSys.pdb
+D:\C#\数据库课程设计\stuSys\obj\Debug\stuSys.exe
+D:\C#\数据库课程设计\stuSys\obj\Debug\stuSys.pdb
+D:\C#\数据库课程设计\stuSys\obj\Debug\stuSys.NewCourse.resources
+D:\C#\数据库课程设计\stuSys\obj\Debug\stuSys.QueryCourse.resources
+D:\C#\数据库课程设计\stuSys\obj\Debug\stuSys.NewStu.resources
+D:\C#\数据库课程设计\stuSys\obj\Debug\stuSys.QueryStu.resources
+D:\C#\数据库课程设计\stuSys\obj\Debug\stuSys.NewChooseCourse.resources
+D:\C#\数据库课程设计\stuSys\obj\Debug\stuSys.NewStuScore.resources
